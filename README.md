@@ -1,4 +1,4 @@
-# Sustainability Dashboard for Kenya
+# Sustainability Progress Dashboard for Kenya
 
 This repository contains a Dash application that visualizes key environmental and sustainability indicators for Kenya. The app uses data from the World Bank API to provide insights on CO2 emissions, forest area, access to electricity, and renewable energy consumption. The dashboard is built with Python, Dash, and Plotly, and is designed to be hosted on platforms like PythonAnywhere.
 
